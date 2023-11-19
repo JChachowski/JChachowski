@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### [Moja strona](htpps://chachowski.pl)
+### [Moja strona](https://chachowski.pl)
 
 
 ## Lorem ipsum dolor sit amet, consectetur adipiscing elit.
