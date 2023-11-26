@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### [Moja strona](https://chachowski.pl)
+### [Moja strona GITHUB](https://jchachowski.github.io)
 
+### [Moja strona](https://chachowski.pl/ninf)
 
 ## Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Nam laoreet purus nec consectetur tempus. Nulla tristique nec arcu in hendrerit. Sed aliquam mauris a ante accumsan ullamcorper. Aliquam elit risus, congue sed malesuada at, blandit quis ante. Ut pellentesque leo massa. Etiam eget fermentum mauris. Vestibulum ut augue nec orci finibus consectetur. Nullam a urna massa.
