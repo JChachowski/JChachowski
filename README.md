@@ -15,7 +15,10 @@ Nam laoreet purus nec consectetur tempus. Nulla tristique nec arcu in hendrerit.
 
 **Nunc placerat, enim eget facilisis vehicula, urna sem sollicitudin lorem, eget euismod magna erat eget leo.** *Ut ut feugiat nisi. Quisque sit amet justo enim. Morbi ullamcorper, tellus ac consequat lobortis, purus lorem sagittis lorem, quis tincidunt enim massa sit amet ipsum.* ~~Nullam ut semper felis, ut pellentesque libero. Quisque neque metus, condimentum ut consequat quis, commodo sed eros.~~
 
+## Zestaw 6 - 10.12
+Link do repo: [https://github.com/JChachowski/Real-Time-Voice-Cloning](https://github.com/JChachowski/Real-Time-Voice-Cloning)
 ```
+
 print("test")
 ```
 <!--
