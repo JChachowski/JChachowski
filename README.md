@@ -17,6 +17,7 @@ Nam laoreet purus nec consectetur tempus. Nulla tristique nec arcu in hendrerit.
 
 ## Zestaw 6 - 10.12
 Link do repo: [https://github.com/JChachowski/Real-Time-Voice-Cloning](https://github.com/JChachowski/Real-Time-Voice-Cloning)
+
 Link do badania: [https://paperswithcode.com/paper/transfer-learning-from-speaker-verification#code](https://paperswithcode.com/paper/transfer-learning-from-speaker-verification#code)
 ```
 
